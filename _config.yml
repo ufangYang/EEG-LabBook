@@ -1,0 +1,6 @@
+baseurl: "/EEGLabBook"
+destination: "./_site"
+source: "."
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
