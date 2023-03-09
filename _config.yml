@@ -1,3 +1,9 @@
+
+theme: jekyll-theme-minimal
+title: EEG Lab book
+description: Lab book for running EEG experiments
+
+
 baseurl: "/EEGLabBook.github.io"
 destination: "./_site"
 source: "."
