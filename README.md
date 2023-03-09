@@ -1,1 +1,1 @@
-# EEGLabBook.github.io
+# EEG lab book
