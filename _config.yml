@@ -4,7 +4,7 @@ title: EEG Lab book
 description: Lab book for running EEG experiments
 
 
-baseurl: "/EEGLabBook.github.io"
+baseurl: "/EEGLabBook"
 destination: "./_site"
 source: "."
 plugins:
