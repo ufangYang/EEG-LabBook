@@ -1,6 +1,5 @@
-
-theme: jekyll-theme-minimal
-title: EEG Lab book
+theme: minimal
+title: EEG-Lab book
 description: Lab book for running EEG experiments
 
 
