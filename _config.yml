@@ -1,4 +1,4 @@
-baseurl: "/EEGLabBook"
+baseurl: "/EEGLabBook.github.io"
 destination: "./_site"
 source: "."
 plugins:
