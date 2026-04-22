@@ -1,10 +1,8 @@
-theme: minimal
+theme: jekyll-theme-minimal
 title: EEG-Lab book
 description: Lab book for running EEG experiments
 
 baseurl: "/EEG-LabBook"
-destination: "./_site"
-source: "."
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
