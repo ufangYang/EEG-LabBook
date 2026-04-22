@@ -2,8 +2,7 @@ theme: minimal
 title: EEG-Lab book
 description: Lab book for running EEG experiments
 
-
-baseurl: "/EEGLabBook"
+baseurl: "/EEG-LabBook"
 destination: "./_site"
 source: "."
 plugins:
